@@ -1,5 +1,5 @@
 {
-  "name": "include-user",
+  "name": "include-updatable-user",
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:9090",
